@@ -1,12 +1,12 @@
 # AutoCorrect
 
-A small Java AutoCorrect that fixes the following common spelling mistakes:
+A small Java-based AutoCorrect program that fixes the following common spelling mistakes:
 - Missing letters
 - Too many letters
 - Swapped letters
 
 My CodeGym mentor also suggested to implement the Levenshtein method:
-- Levenshtein distance
+- Levenshtein distance (≤ 2)
 
 Example:
 mySuggest("stdu") → suggests: stud, study
